@@ -1,7 +1,7 @@
 <h1 align="center">:wave: Merhaba! Ben Kaan Karaoğlan</h1>
 
 <p align="center">
-:art: Grafik tasarımı, dijital içerik üretimi ve görsel hikaye anlatımı konusunda tutkulu bir tasarımcıyım. <br/>
+:art: I'm a creative designer fueled by a passion for graphic design, digital content, and visual storytelling. <br/>
 :rocket: Markaların dijitalde fark yaratması için çalışıyorum.
 </p>
 
